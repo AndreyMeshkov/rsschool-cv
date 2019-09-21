@@ -14,3 +14,10 @@ HTML, CSS, Python.
 
 ## Code examples:  
  [codewars](https://www.codewars.com/users/AndreyMeshkov/completed_solutions)  
+  
+  
+ ## Experience:  
+ - [Codecademy](https://www.codecademy.com/profiles/AndreiMeshkow)   
+ - [HTMLacademy](https://htmlacademy.ru/profile/id1188965)  
+
+
