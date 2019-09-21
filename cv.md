@@ -15,9 +15,16 @@ HTML, CSS, Python.
 ## Code examples:  
  [codewars](https://www.codewars.com/users/AndreyMeshkov/completed_solutions)  
   
-  
- ## Experience:  
+
+## Experience:  
  - [Codecademy](https://www.codecademy.com/profiles/AndreiMeshkow)   
  - [HTMLacademy](https://htmlacademy.ru/profile/id1188965)  
+   
+## Education:  
+Grodno 2000-2005 Modern University for the Humanities. Bachelor of management.  
+  
+## English:  
+Elementary (A1) I study in Lingualeo  
+
 
 
